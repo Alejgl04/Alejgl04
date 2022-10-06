@@ -1,4 +1,4 @@
-<div class="flex">
+<div class="flex text-center">
   <img src="https://res.cloudinary.com/dpn3mhrlz/image/upload/v1665096220/logo_yg2k5j.jpg" width="70%" height="400px">
 </div>
 
