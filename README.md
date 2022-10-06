@@ -1,4 +1,6 @@
-<img src="https://res.cloudinary.com/dpn3mhrlz/image/upload/v1665096220/logo_yg2k5j.jpg" width="70%" height="400px">
+<div class="flex">
+  <img src="https://res.cloudinary.com/dpn3mhrlz/image/upload/v1665096220/logo_yg2k5j.jpg" width="70%" height="400px">
+</div>
 
 # Greetings! 👋 :computer: :tophat:
 
