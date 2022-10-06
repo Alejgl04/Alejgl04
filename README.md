@@ -1,5 +1,5 @@
 <div class="" style="text-align: center;">
-  <img src="https://res.cloudinary.com/dpn3mhrlz/image/upload/v1665096220/logo_yg2k5j.jpg" width="70%">
+  <img src="https://res.cloudinary.com/dpn3mhrlz/image/upload/v1665096220/logo_yg2k5j.jpg" width="90%">
 </div>
 
 # Greetings! 👋 :computer: :tophat:
