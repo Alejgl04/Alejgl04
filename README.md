@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/dpn3mhrlz/image/upload/v1665096220/logo_yg2k5j.jpg" width="100%" height="200px">
+<img src="https://res.cloudinary.com/dpn3mhrlz/image/upload/v1665096220/logo_yg2k5j.jpg" width="100%" height="400px">
 
 # Greetings! 👋 :computer: :tophat:
 
