@@ -2,7 +2,7 @@
 
 # Greetings! 👋 :computer: :tophat:
 
-I'm a *Systems Engineer* who is passionate about layout and page design, also offering code solutions as needed. 
+As a *Systems Engineer* I'm passionate about layout and page design, also offering code solutions as needed. 
 I am interested in developing front-end web applications as well as back-end, I am constantly learning to improve my web development skills and be at the forefront of the technologies that are currently trending. 
 I enjoy developing IT projects for small, medium and big companies using *HTML, CSS, JavaScript, PHP, Angular, Node JS, GitHub and Markdown* among other technologies
 
