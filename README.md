@@ -20,7 +20,7 @@ As a *Systems Engineer* I am passionate about layout, page design and web applic
 <a href="https://instagram.com/alejandrojgl14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ero.auditore" height="30" width="40" /></a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alejgl04&show_icons=true&theme=radical)
 
 
 ## Languages and Tools
