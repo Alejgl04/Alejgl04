@@ -9,18 +9,16 @@ As a *Systems Engineer* I am passionate about layout, page design and web applic
 
 <div display="flex">
   <img src="https://github-readme-stats.vercel.app/api?username=Alejgl04" height="200px"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejgl04&hide=html,php" height="200px" width="35%"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejgl04&hide=html,php" height="200px" width="35%"/> -->
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alejgl04&show_icons=true&theme=radical)
 </div>
 
-## Contact me
+## Connect with me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/alejandro-jes%C3%BAs-guerrero-l%C3%B3pez-75479a152/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="eroauditore" height="30" width="40" /></a>
-<a href="https://twitter.com/alejandrojgl14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="eroauditore" height="30" width="40" /></a>
-<a href="https://instagram.com/alejandrojgl14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ero.auditore" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alejandro-jes%C3%BAs-guerrero-l%C3%B3pez-75479a152/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eroauditore" height="30" width="40" /></a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alejgl04&show_icons=true&theme=radical)
 
 
 ## Languages and Tools
