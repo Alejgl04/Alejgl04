@@ -6,6 +6,7 @@ As a *Systems Engineer* I am passionate about layout, page design and web applic
 
 
 <br>
+<div display="flex"> <img src="https://github-readme-stats.vercel.app/api?username=Alejgl04" height="200px"/> </div>
 <div>
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejgl04&hide=html,php" height="200px" width="35%"/>
