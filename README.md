@@ -6,14 +6,12 @@ As a *Systems Engineer* I am passionate about layout, page design and web applic
 
 
 <br>
-<div align="center" dir="auto">
+<div>
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejgl04&hide=html,php" height="200px" width="35%"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alejgl04&show_icons=true&theme=radical)
-
 </div>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alejgl04&show_icons=true&theme=radical)
 
 ## Connect with me
 
