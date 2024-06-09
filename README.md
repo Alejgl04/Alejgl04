@@ -11,13 +11,6 @@ As a *Systems Engineer* I am passionate about layout, page design and web applic
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejgl04&show_icons=true&theme=radical" height="200px" width="35%"/>
 </div>
 
-<div>
-  
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alejgl04&show_icons=true&theme=radical)
-
-</div>
-
 ## Connect with me
 
 <p align="left">
