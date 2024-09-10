@@ -8,18 +8,12 @@ As a *Systems Engineer* I am passionate about layout, page design and web applic
 <br>
 <div display="flex"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Alejgl04&show_icons=true&theme=radical" height="200px"/>
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejgl04&layout=compact&show_icons=true&theme=radical" height="200px" width="50%"/>
 </div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejgl04&layout=compact&show_icons=true&theme=radical" height="200px" width="35%"/>
-
 ## Connect with me
-
 <p align="left">
 <a href="https://www.linkedin.com/in/alejandro-jes%C3%BAs-guerrero-l%C3%B3pez-75479a152/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eroauditore" height="30" width="40" /></a>
 </p>
-
-
-
 ## Languages and Tools
 
 <p align="left"> <a href="https://www.w3schools.com/html/" target="_blank"> 
