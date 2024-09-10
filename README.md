@@ -9,8 +9,8 @@ As a *Systems Engineer* I am passionate about layout, page design and web applic
 <div display="flex"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Alejgl04&show_icons=true&theme=radical" height="200px"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejgl04&layout=compact&show_icons=true&theme=radical" height="200px" width="35%"/>
 </div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejgl04&layout=compact&show_icons=true&theme=radical" height="200px" width="35%"/>
 
 ## Connect with me
 
