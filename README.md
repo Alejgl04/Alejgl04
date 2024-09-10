@@ -16,6 +16,7 @@ As a *Systems Engineer* I am passionate about layout, page design and web applic
 <p align="left">
 <a href="https://www.linkedin.com/in/alejandro-jes%C3%BAs-guerrero-l%C3%B3pez-75479a152/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eroauditore" height="30" width="40" /></a>
 </p>
+
 ## Languages and Tools
 
 <p align="left"> <a href="https://www.w3schools.com/html/" target="_blank"> 
