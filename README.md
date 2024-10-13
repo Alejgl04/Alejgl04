@@ -6,7 +6,7 @@ As a *Systems Engineer* I am passionate about layout, page design and web applic
 
 
 <br>
-<div style="display:flex;gap:1rem;"> 
+<div class="flex d-flex"> 
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Alejgl04&show_icons=true&theme=radical"
