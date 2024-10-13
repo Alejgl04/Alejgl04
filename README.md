@@ -6,7 +6,7 @@ As a *Systems Engineer* I am passionate about layout, page design and web applic
 
 
 <br>
-<div display="flex"> 
+<div style="display:flex;gap:1rem;"> 
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Alejgl04&show_icons=true&theme=radical"
@@ -18,7 +18,7 @@ As a *Systems Engineer* I am passionate about layout, page design and web applic
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Alejgl04&show_icons=true" />
 </picture>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejgl04&layout=compact&show_icons=true&theme=radical" height="200px" width="70%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejgl04&layout=compact&show_icons=true&theme=radical" height="195px" width="70%"/>
 
 </div>
 
