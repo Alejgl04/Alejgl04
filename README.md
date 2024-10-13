@@ -7,8 +7,17 @@ As a *Systems Engineer* I am passionate about layout, page design and web applic
 
 <br>
 <div display="flex"> 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alejgl04&show_icons=true&theme=transparent)
-
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 </div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejgl04&layout=compact&show_icons=true&theme=radical" height="200px" width="70%"/>
 
