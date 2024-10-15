@@ -2,7 +2,9 @@
 
 # Greetings! 👋 :computer: :tophat:
 
-As a *Systems Engineer* I am passionate about layout, page design and web application, also offering code solutions as needed. Interested in developing front-end and back-end applications as well. Able to handle multiple tasks in a fast paced environment, problem-solver with strong work ethic and committed to the success of the organization.
+Highly motivated and passionate professional with proven programming, analytical and dedicated to web development with hands-on experience. Able to handle multiple tasks in a fast paced environment, problem-solver with strong work ethic and committed to the success of the organization.
+
+Looking to expand career path in the technology industry and eager to add value to any organization, always willing to research for solutions to any upcoming challenge.
 
 
 <br>
