@@ -9,11 +9,7 @@ Looking to expand career path in the technology industry and eager to add value 
 
 <br>
 <div class="flex d-flex"> 
-![Anurag's GitHub stats]()<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Alejgl04&hide=contribs,prs&show_icons=true&theme=highcontrast"
-    media="(prefers-color-scheme: dark)"
-  />
+<picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Alejgl04&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
