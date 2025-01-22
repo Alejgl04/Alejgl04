@@ -9,7 +9,7 @@ Looking to expand career path in the technology industry and eager to add value 
 
 <br>
 <div class="flex d-flex"> 
-  <img src="https://camo.githubusercontent.com/63a28fff26303a254b691f65518c2d4c431f9870a2f6053825350d469c3b88fc/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6b6c6572697468267468656d653d7472616e73706172656e74" alt="Anurag's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Alejgl04&amp;theme=transparent" style="max-width: 100%;">
+  <img src="https://camo.githubusercontent.com/" alt="Anurag's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Alejgl04&amp;theme=transparent" style="max-width: 100%;">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Alejgl04&show_icons=true&theme=highcontrast"
