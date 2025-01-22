@@ -14,7 +14,7 @@ Looking to expand career path in the technology industry and eager to add value 
     srcset="https://github-readme-stats.vercel.app/api?username=Alejgl04&show_icons=true&theme=highcontrast"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=Alejgl04&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alejgl04&show_icons=true&theme=highcontrast" />
 </picture>
   <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejgl04&layout=compact&show_icons=true&theme=highcontrast" height="195px"/>
