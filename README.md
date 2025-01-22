@@ -11,7 +11,7 @@ Looking to expand career path in the technology industry and eager to add value 
 <div class="flex d-flex"> 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Alejgl04&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=Alejgl04&show_icons=true&theme=highcontrast"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Alejgl04&show_icons=true" />
