@@ -14,7 +14,7 @@ Looking to expand career path in the technology industry and eager to add value 
     srcset="[![GitHub Streak](https://streak-stats.demolab.com/?user=Alejgl04)](https://git.io/streak-stats)"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=Alejgl04&show_icons=true&theme=highcontrast" />
+  <img src="[![GitHub Streak](https://streak-stats.demolab.com/?user=Alejgl04)](https://git.io/streak-stats)" />
 </picture>
   <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejgl04&layout=compact&show_icons=true&theme=highcontrast" height="195px"/>
