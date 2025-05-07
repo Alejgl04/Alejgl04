@@ -11,7 +11,7 @@ Looking to expand career path in the technology industry and eager to add value 
 <div class="flex d-flex"> 
 <picture>
   <source
-    srcset="[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)"
+    srcset="[![GitHub Streak](https://streak-stats.demolab.com/?user=Alejgl04)](https://git.io/streak-stats)"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Alejgl04&show_icons=true&theme=highcontrast" />
